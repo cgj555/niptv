@@ -100,7 +100,7 @@ case $city_choice in
         ;;
     20)
         city="天津联通"
-        stream="udp/225.1.1.111:5002"
+        stream="udp/225.1.1.120:5002"
         ;;
     21)
         city="宁夏电信"
